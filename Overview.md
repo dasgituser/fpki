@@ -10,8 +10,6 @@ V1.0
 
 September 21, 2015
 
-This Page is Blank
-
 <span id="_Toc401929197" class="anchor"></span>**Table of Contents**
 
 ### 1. Introduction 1
