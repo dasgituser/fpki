@@ -155,6 +155,8 @@ The Federal PKI offers many benefits and the following are a few of its key obje
 
 -   **Compliance** with laws, regulations, and standards as well as resolution of security issues identified in GAO reports. Using the Federal PKI means almost automatic compliance with several executive orders, initiatives, and laws and can be used in contracts to ensure vendor compliance. The Federal PKI compliance team verifies PKI participating CAs are audited and operate in a secure manner.
 
+<img src="Overview_Media/media/fpki_compliance.png" width="645" height="275" />
+
 <span id="_Toc430632724" class="anchor"></span>Figure 4. Federal PKI Compliance
 
 > As the figure above illustrates, the Federal PKI is a single requirement federal agencies can use when writing contract vehicles for identity and authentication services because it meets all government FICAM requirements.
