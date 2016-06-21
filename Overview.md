@@ -69,7 +69,6 @@ September 21, 2015
 | Version Number | Date of Change | Change Description |
 |----------------|----------------|--------------------|
 | 1.0            | 09/21/2015     | Initial Document   |
-|
 
 Introduction
 ============
