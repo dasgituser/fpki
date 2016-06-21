@@ -229,32 +229,14 @@ Table 2. FPKI Certificate Policies Mapped to E-Auth Assurance Levels (NIST 800-6
 
 | Certificate Policy | ID Proofing | Token | Token and Credential Management | Overall LOA Equivalence |
 |--------------------|-------------|-------|---------------------------------|-------------------------|
-| Common-Auth        
-                     
- PIV-I Auth          
-                     
- SHA1 Auth           | LOA 4       | LOA 4 | LOA 4                           | LOA 4                   |
+| Common-Auth PIV-I Auth SHA1 Auth | LOA 4       | LOA 4 | LOA 4                           | LOA 4                   |
 | Common –SW         | LOA 4       | LOA 3 | LOA 4                           | LOA 3                   |
-| Common-HW          
-                     
- PIV-I HW            
-                     
- SHA1-HW             | LOA 4       | LOA 4 | LOA 4                           | LOA 4                   |
-| Common-High        
-                     
- FBCA-High           | LOA 4       | LOA 4 | LOA 4                           | LOA 4                   |
+| Common-HW  PIV-I HW SHA1-HW             | LOA 4       | LOA 4 | LOA 4                           | LOA 4                   |
+| Common-High FBCA-High           | LOA 4       | LOA 4 | LOA 4                           | LOA 4                   |
 | FBCA Basic         | LOA 3       | LOA 3 | LOA 3                           | LOA 3                   |
-| FBCA Medium        
-                     
- FBCA Medium CBP     | LOA 3       | LOA 3 | LOA 4                           | LOA 3                   |
-| FBCA MediumHW      
-                     
- FBCA MediumHW-CBP   | LOA 3       | LOA 4 | LOA 4                           | LOA 3                   |
-| Common-cardAuth    
-                     
- PIVI-cardAuth       
-                     
- SHA1-cardAuth       | LOA 4       | LOA 2 | LOA 4                           | LOA 2                   |
+| FBCA Medium FBCA Medium CBP     | LOA 3       | LOA 3 | LOA 4                           | LOA 3                   |
+| FBCA MediumHW FBCA MediumHW-CBP   | LOA 3       | LOA 4 | LOA 4                           | LOA 3                   |
+| Common-cardAuth PIVI-cardAuth  SHA1-cardAuth       | LOA 4       | LOA 2 | LOA 4                           | LOA 2                   |
 
 Agencies can use the above table to determine which FPKI certificate policy best fit an application’s authentication requirements.
 
