@@ -351,9 +351,7 @@ The six worksheets are:
 | **version**                 |                        | 2                                 | Integer value of "2" for version 3 certificate.                                                  |
 | **serialNumber**            |                        | INTEGER                           | Unique positive integer.                                                                         |
 | **signature**               |                        |                                   |                                                                                                  |
-| AlgorithmIdentifier         |                        |                                   | Must match Algorithm Identifier in                                                               
-                                                                                            >                                                                                                 
-                                                                                            > signatureAlgorithm field. The parameters field is only populated when the algorithm is RSA.     |
+| AlgorithmIdentifier         |                        |                                   | Must match Algorithm Identifier in signatureAlgorithm field. The parameters field is only populated when the algorithm is RSA.     |
 | algorithm                   |                        | Choice of following algorithms:   |
 |                             |                        | 1.2.840.113549.1.1.5              | sha-1WithRSAEncryption                                                                           |
 |                             |                        | 1.2.840.113549.1.1.10             | id-RSASSA-PSS (RSA with PSS padding; 800-78 requires use with SHA-256 hash algorithm)            |
