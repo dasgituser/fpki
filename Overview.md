@@ -1,10 +1,6 @@
 <img src="Overview_Media/media/image1.jpeg" width="219" height="74" />
 
-**Federal PKI **
-
-**Trust Infrastructure **
-
-**Overview**
+# Federal PKI Trust Infrastructure Overview #
 
 V1.0
 
